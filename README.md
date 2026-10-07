@@ -1,7 +1,7 @@
 # Olá, eu sou o João Pedro
 
 <div align="center">
-  <img src="https://vercel.app" width="100%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDLYhs2Kuh9uPRT-PHLF4Wf_NY51zyfkc6AhXCJHX-hB9N4aWORfVL_M&s=10" width="100%"/>
 </div>
 
 ### Sobre Mim
