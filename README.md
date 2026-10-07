@@ -19,19 +19,13 @@ Sou o **João Pedro**, tenho **18 anos** e moro em **Marília (SP)**. Estou conc
 Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no meu dia a dia:
 
 #### **Front-end**
-![JavaScript](https://shields.io)
-![Angular](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" height="30"/> <img src="https://shields.io" height="30"/> <img src="https://shields.io" height="30"/> <img src="https://shields.io" height="30"/>
 
 #### **Back-end e Banco de Dados**
-![NodeJS](https://shields.io)
-![Python](https://shields.io)
-![MySQL](https://shields.io)
+<img src="https://shields.io" height="30"/> <img src="https://shields.io" height="30"/> <img src="https://shields.io" height="30"/>
 
 #### **Ferramentas e Versionamento**
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://shields.io" height="30"/> <img src="https://shields.io" height="30"/>
 
 ---
 
@@ -46,8 +40,8 @@ Venho colocando meus conhecimentos em prática por meio de projetos pessoais e a
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
+  <img src="https://vercel.app" height="150"/>
+  <img src="https://vercel.app" height="150"/>
 </div>
 
 ---
@@ -57,4 +51,4 @@ Venho colocando meus conhecimentos em prática por meio de projetos pessoais e a
 Busco oportunidades para iniciar minha trajetória profissional no desenvolvimento de software, contribuir com uma equipe e continuar evoluindo na área de tecnologia. Gosto de entender como as coisas funcionam, resolver problemas e aprender com cada desafio.
 
 Contato:
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" height="25"/></a>
