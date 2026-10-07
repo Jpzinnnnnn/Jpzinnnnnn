@@ -1,7 +1,7 @@
 # Olá, eu sou o João Pedro
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj4g0kSSULEWr3byz0-P6AyOps972Ka04iMc12hmdNNzNawy3ANIDQsI&s=10" width="100%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj4g0kSSULEWr3byz0-P6AyOps972Ka04iMc12hmdNNzNawy3ANIDQsI&s=10" width="200"/>
 </div>
 
 ### Sobre Mim
