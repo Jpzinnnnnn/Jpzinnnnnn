@@ -1,14 +1,60 @@
-Sou João Pedro, tenho 18 anos, moro em Marília (SP) e estou concluindo o ensino médio junto ao curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por computação e busco constantemente aprender, desenvolver minhas habilidades e transformar ideias em soluções práticas.
+# Olá, eu sou o João Pedro
 
-  Venho colocando meus conhecimentos em prática por meio de projetos pessoais e acadêmicos, como sites, aplicações web e sistemas com banco de dados. Entre eles está o Monsenhor Informa, um projeto desenvolvido com Angular para facilitar o acesso dos alunos ao cardápio e aos avisos da escola.
+<div align="center">
+  <img src="https://vercel.app" width="100%"/>
+</div>
 
-Minhas principais competências e ferramentas são:
+### Sobre Mim
 
-• Front-end: JavaScript, Angular, HTML5 e CSS3
-• Back-end: Node.js e Python
-• Banco de dados: MySQL
-• Versionamento e ferramentas: Git e GitHub
+Sou o **João Pedro**, tenho **18 anos** e moro em **Marília (SP)**. Estou concluindo o ensino médio integrado ao **curso técnico em Desenvolvimento de Sistemas**. Sou apaixonado por computação e busco constantemente aprender, desenvolver minhas habilidades e transformar ideias em soluções práticas.
 
-Gosto de entender como as coisas funcionam, resolver problemas e aprender com cada desafio. Também sou praticante de jiu-jítsu e instrutor de jiu-jitsu kids, esporte que me ensina a ter disciplina, persistência e dedicação — valores que levo para meus estudos e projetos.
+- **Formação:** Ensino Médio e Técnico em Desenvolvimento de Sistemas
+- **Localização:** Marília - SP
+- **Prática:** Praticante de **Jiu-Jítsu**, esporte que me ensina disciplina, persistência e dedicação — valores que levo diretamente para os meus estudos e projetos.
 
-Busco oportunidades para iniciar minha trajetória profissional no desenvolvimento de software, contribuir com uma equipe e continuar evoluindo na área de tecnologia.
+---
+
+### Meu Stack Tecnológico
+
+Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no meu dia a dia:
+
+#### **Front-end**
+![JavaScript](https://shields.io)
+![Angular](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+#### **Back-end e Banco de Dados**
+![NodeJS](https://shields.io)
+![Python](https://shields.io)
+![MySQL](https://shields.io)
+
+#### **Ferramentas e Versionamento**
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+### Projetos em Destaque
+
+Venho colocando meus conhecimentos em prática por meio de projetos pessoais e acadêmicos, como sites, aplicações web e sistemas com banco de dados. 
+
+* **Monsenhor Informa:** Um projeto desenvolvido com **Angular** para facilitar o acesso dos alunos ao cardápio e aos avisos da escola.
+
+---
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</div>
+
+---
+
+### Objetivo Profissional
+
+Busco oportunidades para iniciar minha trajetória profissional no desenvolvimento de software, contribuir com uma equipe e continuar evoluindo na área de tecnologia. Gosto de entender como as coisas funcionam, resolver problemas e aprender com cada desafio.
+
+Contato:
+[![LinkedIn](https://shields.io)](https://linkedin.com)
