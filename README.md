@@ -19,9 +19,11 @@ Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no m
 
 * **Front-end:** JavaScript | Angular | HTML5 | CSS3
 <!-- Frontend -->
+<p align="center">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" width="100" /> 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="100" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="100" />
+</p>
 
 * **Back-end e Banco de Dados:** Node.js | Python | MySQL
 * **Ferramentas e Versionamento:** Git | GitHub
