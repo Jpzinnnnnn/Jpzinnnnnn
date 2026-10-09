@@ -27,13 +27,13 @@ Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no m
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="TypeScript" width="100" />
 </p>
 
+* **Back-end e Banco de Dados:** Node.js | Python | MySQL
 <p align="center">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" width="100" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="100" />
+  <img src="L	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="100" />
 </p>
 
-* **Back-end e Banco de Dados:** Node.js | Python | MySQL
 * **Ferramentas e Versionamento:** Git | GitHub
 
 ---
