@@ -59,4 +59,4 @@ Busco oportunidades para iniciar minha trajetória profissional no desenvolvimen
 
 ### Contato
 
-* **LinkedIn:** [Acessar meu perfil profissional](www.linkedin.com/in/joão-pedro-martins-falconi-52812a365)
+* **LinkedIn:** [Acessar meu perfil profissional](https://www.linkedin.com/)
