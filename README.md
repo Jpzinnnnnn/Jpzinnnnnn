@@ -37,8 +37,8 @@ Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no m
 * **Ferramentas e Versionamento:** Git | GitHub
 
 * <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Node.js" width="100" />
-  <img src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="Python" width="100" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="100" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="100" />
 </p>
 
 ---
