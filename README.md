@@ -17,7 +17,7 @@ Sou o **João Pedro**, tenho **18 anos** e moro em **Marília (SP)**. Estou conc
 
 Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no meu dia a dia:
 
-* **Front-end:** JavaScript | Angular | HTML5 | CSS3
+* **Front-end:** Angular | JavaScript | TypeScript | HTML5 | CSS3
 <!-- Frontend -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" width="100" /> 
